@@ -1,0 +1,11 @@
+{
+  "baseUrl":"https://api.4usapp.com/profissionais",
+  "amplifyConfig": {"Auth": {
+    "identityPoolId": "sa-east-1:26e51b5a-b1d9-4097-bfc6-1a44ca73669e",
+    "region": "sa-east-1",
+    "userPoolId": "sa-east-1_oDsevs4Bn",
+    "userPoolWebClientId": "5njtnkm50t5oqrm8v8aotqe9vn"
+}
+  },
+    "oneSignalkey": "f1f6cdd5-56c2-4663-b3b1-5c194a9e74a5"
+}

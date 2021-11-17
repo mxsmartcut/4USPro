@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "4us profissional (Partner)",
+    "slug": "4usPro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#191919"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "config": {
+        "googleMapsApiKey": "AIzaSyCBqX8PXFEyDGJN3IQRVKvtP5G7cICHhx8"
+      },
+      "bundleIdentifier": "com.fouruspro.professional"
+    },
+    "android": {
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyCBqX8PXFEyDGJN3IQRVKvtP5G7cICHhx8"
+        }
+      },
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "versionCode": 20,
+      "package": "com.fouruspro.professional"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
